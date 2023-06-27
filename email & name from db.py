@@ -1,7 +1,7 @@
 import requests
 
 # Replace the placeholder with your Xano endpoint URL
-ENDPOINT_URL = 'https://x8ki-letl-twmt.n7.xano.io/api:5OydBuyZ/unread_user'
+ENDPOINT_URL = 'API XANO'
 
 try:
     response = requests.get(ENDPOINT_URL)
