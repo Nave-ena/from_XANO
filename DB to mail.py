@@ -3,7 +3,7 @@ import smtplib
 from email.mime.text import MIMEText
 
 # Replace the placeholder with your Xano endpoint URL
-ENDPOINT_URL = 'https://x8ki-letl-twmt.n7.xano.io/api:5OydBuyZ/unread_user'
+ENDPOINT_URL = 'XANO API'
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587
 SENDER_EMAIL = 'mail'
